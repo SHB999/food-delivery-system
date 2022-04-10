@@ -58,7 +58,7 @@ selectcategory(id, name) {
   render(){
     return (
       <div>
-      <nav className="navbar navbar-expand-lg" style={{backgroundColor: "#000000"}}>
+      <nav className="navbar navbar-expand-lg" style={{backgroundColor: "#FF0073"}}>
         <div className="container-fluid text-white">
           { window.localStorage.getItem("user_role") !== 'DELIVERY_BOY' &&
             window.localStorage.getItem("user_role") !== 'ADMIN' &&

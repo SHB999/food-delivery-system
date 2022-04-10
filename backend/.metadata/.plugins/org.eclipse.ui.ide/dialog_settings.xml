@@ -107,6 +107,7 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="D:\cdac_project\food-delivery-system\backend"/>
 			<item value="E:\cdac_iacsd_2021\PROJECT-CDAC\cdac_project\Food-Delivery-System"/>
 			<item value="E:\cdac_iacsd_2021\PROJECT-CDAC\cdac_project\Food-Delivery-System\backend"/>
 			<item value="C:\Users\Administrator\Downloads\FinalProject\Project"/>
